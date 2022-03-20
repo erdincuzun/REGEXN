@@ -3,3 +3,5 @@ REGEXN converts CSS Selector patterns to regular expression patterns for efficie
 
 # References
 Uzun, E. (2020). A regular expression generator based on CSS selectors for efficient extraction from HTML pages. Turkish Journal of Electrical Engineering & Computer Sciences, 28, 3389–3401. Retrieved from https://doi.org/10.3906/elk-2004-67
+
+<a href="https://erdincuzun.com/yayinlar/" target="_blank">Click for bibtex, downloads, all publications...</a>
